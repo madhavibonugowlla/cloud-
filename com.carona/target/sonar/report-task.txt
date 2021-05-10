@@ -1,0 +1,6 @@
+projectKey=carona.com:com.carona
+serverUrl=http://localhost:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:9000/dashboard/index/carona.com:com.carona
+ceTaskId=AXlWlB9pI1O6icfIGYqS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXlWlB9pI1O6icfIGYqS
